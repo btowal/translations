@@ -4,7 +4,7 @@ phraseapp:
   file_format: simple_json
   push:
     sources:
-    - file: "./homepage.json"
+    - file: "./en.json"
       params:
         locale_id: eb00a021951f457c11a2f8f30717769b
         update_translations: true
