@@ -6,6 +6,7 @@ phraseapp:
     sources:
     - file: "./homepage.json"
       params:
+        locale_id: eb00a021951f457c11a2f8f30717769b
         update_translations: true
   pull:
     targets:
