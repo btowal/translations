@@ -1,7 +1,12 @@
 phraseapp:
+  access_token: e19def42cb8cf149ac9a5be7935c5c58256a64e96eb2479b3a9eff86c15eb574
+  project_id: 47db9774fb1e07937347529b4bcd3024
   file_format: simple_json
   push:
     sources:
-    - file: "./*.json"
+    - file: "./homepage.json"
       params:
         update_translations: true
+  pull:
+    targets:
+    - file: "./<locale_name>.json"
