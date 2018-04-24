@@ -1,0 +1,13 @@
+{
+  "installCode": "Integration auf Ihrer Website",
+  "installCodeAmericommerce1": "Melden Sie sich bei Ihrem AmeriCommerce-Panel ein.",
+  "installCodeAmericommerce4": "Gehen Sie in den \"Head-Tags\"-Tab",
+  "installCodeAmericommerce5": "Fügen Sie den obigen Tidio-JavaScript-Code am Ende des \"Head Tags\"-Abschnitt ein.",
+  "installCodeAmericommerce6": "Klicken Sie auf \"Speichern\", um den Integrationsprozess zu beenden.",
+  "installCodeNotInstalled": "Der Chatcode wurde nicht ordnungsgemäß installiert",
+  "installCodeNotInstalledText": "Es sieht so aus, als ob Sie den Chatcode noch nicht installiert haben. Fügen Sie einen kurzen JavaScript-Code auf Ihrer Website ein, um den Chat hinzuzufügen.",
+  "installCodeShopify0": "<strong>Melden Sie sich</strong> bei Ihrem Shopify-Panel an.",
+  "installCodeShopify1": "Gehen Sie auf Themes > HTML/CSS bearbeiten (3-Punkte-Menü) > theme.liquid",
+  "installCodeShopify3": "Fügen Sie den Code rechts ein, bevor Sie das &lt;/head&gt;-Tag in der theme.liquid-Datei schließen.",
+  "installCodeShopify4": "Speichern Sie die Änderungen und Sie sind fertig. Sie haben soeben Ihren Chat in Spotify integriert."
+}
