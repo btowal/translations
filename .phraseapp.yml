@@ -1,0 +1,7 @@
+phraseapp:
+  file_format: simple_json
+  push:
+    sources:
+    - file: "./*.json"
+      params:
+        update_translations: true
