@@ -1,4 +1,5 @@
 {
+  "goodJob": "Dobra robota!! Bardzo dobra robota!!",
   "installCode": "Zintegruj ze swoją stroną internetową",
   "installCodeAmericommerce1": "Zaloguj do swojego panelu AmeriCommerce.",
   "installCodeAmericommerce4": "Idź do zakładki \"Tagi Head\".",
@@ -10,5 +11,6 @@
   "installCodeShopify1": "Idź do tematów > Edytuj HTML/CSS (menu 3 kropki) > theme.liquid",
   "installCodeShopify3": "Wklej ten kod tuż przed zamknięciem tagu &lt;/head&gt; w swoim pliku theme.liquid.",
   "installCodeShopify4": "Zapisz zmiany i gotowe, właśnie zintegrowałeś swój czat z shopify!",
+  "installCodeShopify5": "_DONE_",
   "newKey": "Dodano nowy klucz do tłumaczeń"
 }
