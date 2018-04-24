@@ -19,5 +19,6 @@
 	"installCodeAmericommerce3": "Click \"Edit\" in the theme preview.",
 	"installCodeAmericommerce4": "Go to the \"Head Tags\" tab.",
 	"installCodeAmericommerce5": "Paste the Tidio Java Script code from above at the end of the \"Head Tags\" section.",
-	"installCodeAmericommerce6": "Click \"Save\" to finish the integration process."
+	"installCodeAmericommerce6": "Click \"Save\" to finish the integration process.",
+	"goodJob": "Good job!!"
 }
